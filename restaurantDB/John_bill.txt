@@ -1,0 +1,5 @@
+=== STRUK PEMBAYARAN ===
+Nama Pelanggan: John
+Pesanan: Nasi Goreng
+Total Harga: Rp 25000.00
+=========================

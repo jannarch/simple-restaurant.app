@@ -1,0 +1,5 @@
+=== STRUK PEMBAYARAN ===
+Nama Pelanggan: Randy
+Pesanan: Sate Ayam
+Total Harga: Rp 10000.00
+=========================

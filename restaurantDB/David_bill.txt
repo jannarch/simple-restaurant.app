@@ -1,0 +1,5 @@
+=== STRUK PEMBAYARAN ===
+Nama Pelanggan: David
+Pesanan: Ayam Goreng
+Total Harga: Rp 30000.00
+=========================
